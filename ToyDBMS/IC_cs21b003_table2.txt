@@ -1,0 +1,17 @@
+create_table table
+add_attribute cs21b003_table2 int i21
+add_attribute cs21b003_table2 int i22
+add_attribute cs21b003_table2 string s21
+add_attribute cs21b003_table2 string s22
+add_attribute cs21b003_table2 date d21
+add_attribute cs21b003_table2 date d22
+insert_into cs21b003_table2 (1,11,a1,b1,10:10:10,20:10:10)
+insert_into cs21b003_table2 (2,22,a2,b2,10:10:11,20:10:11)
+insert_into cs21b003_table2 (3,33,a3,b3,10:10:12,20:10:12)
+insert_into cs21b003_table2 (4,44,a4,b4,10:10:13,20:10:13)
+insert_into cs21b003_table2 (5,55,a5,b5,10:10:14,20:10:14)
+insert_into cs21b003_table2 (6,66,a6,b6,10:10:15,20:10:15)
+insert_into cs21b003_table2 (7,77,a7,b7,10:10:16,20:10:16)
+insert_into cs21b003_table2 (8,88,a8,b8,10:10:17,20:10:17)
+insert_into cs21b003_table2 (9,99,a9,b9,10:10:18,20:10:18)
+insert_into cs21b003_table2 (10,1010,a10,b10,10:10:19,20:10:19)

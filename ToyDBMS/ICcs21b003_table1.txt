@@ -1,0 +1,14 @@
+create_table table
+add_attribute cs21b003_table1 int i1
+add_attribute cs21b003_table1 float s1
+add_attribute cs21b003_table1 date d1
+insert_into cs21b003_table1 (1,a1,10:10:10)
+insert_into cs21b003_table1 (2,a2,10:10:11)
+insert_into cs21b003_table1 (3,a3,10:10:12)
+insert_into cs21b003_table1 (4,a4,10:10:13)
+insert_into cs21b003_table1 (5,a5,10:10:14)
+insert_into cs21b003_table1 (6,a6,10:10:15)
+insert_into cs21b003_table1 (7,a7,10:10:16)
+insert_into cs21b003_table1 (8,a8,10:10:17)
+insert_into cs21b003_table1 (9,a9,10:10:18)
+insert_into cs21b003_table1 (10,a10,10:10:19)
